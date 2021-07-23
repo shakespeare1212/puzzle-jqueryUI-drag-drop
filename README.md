@@ -1,0 +1,2 @@
+# puzzle-jqueryUI-drag-drop
+This is my follow of a great YouTube video.  The most complete exploration of jquery UI drag and drop that I have, perfect for what a game needs. Pieces will not drop if a slot is occupied, they will return to their start position. Pieces can be repositioned, and they will "clean up" after themselves, opening the slot up again. I would say this was literally, one of the most important learning experiences of my lifetime. I will use these techniques over and over, in many games now.
